@@ -1,3 +1,10 @@
+# Modifications in this fork:
+
+- Add support for platformio, reapplying commits originally done by @patrickwasp to newer fork of ClearCore-Arduino-library.
+- Removed `ClearCore` from global namespace. If you want to use it, just add `using namespace ClearCore;` under the include.
+    - IMO this is best practice and if you're using a beta pio package, you know what a namespace is.
+
+
 # ClearCore-Arduino-wrapper
 
 This repository contains the source code for the ClearCore Arduino Wrapper, which allows users to interact with a Teknic ClearCore using common Arduino functions.
