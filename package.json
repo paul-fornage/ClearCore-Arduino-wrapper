@@ -1,0 +1,16 @@
+
+{
+  "name": "framework-arduino-samd-clearcore",
+  "version": "1.1.3",
+  "description": "Arduino Wrapper for Teknic ClearCore",
+  "keywords": [
+    "framework",
+    "arduino",
+    "teknic",
+    "clearcore"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paul-fornage/ClearCore-Arduino-wrapper"
+  }
+}
