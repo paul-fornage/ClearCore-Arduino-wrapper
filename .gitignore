@@ -39,3 +39,4 @@ drivers/verifyinf.cmd
 *.componentinfo.xml
 jlink.*
 .vscode/
+.idea/
