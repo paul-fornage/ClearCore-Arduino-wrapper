@@ -29,7 +29,7 @@ extern SysManager SysMgr;
 }
 
 // Board resource controller
-extern const uint32_t SystemCoreClock;
+extern uint32_t SystemCoreClock;
 uint32_t toneMaxFrequency = SystemCoreClock / 2;
 
 void noTone(uint8_t outputPin) {
